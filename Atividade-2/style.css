@@ -1,0 +1,49 @@
+body {
+    background-color: #050e1e;
+}
+
+h1{
+    color:#00a2ed;
+    text-align: center;
+    font-family: "Changa One", sans-serif;
+    font-weight: 250;
+    font-style: normal;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.subtitulos {
+    color: #050e1e;
+    text-align: center;
+    font-family: "Changa One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 28px;
+    text-transform: capitalize;
+    background-color: #00a2ed;
+    padding: 10px;
+}
+
+p, ol, ul {
+    color: #f0f4f8;
+    font-size: 18px;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+section {
+    border: 2px dashed #00a2ed;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 30px;
+}
+
+footer{
+    text-align: center;
+}
+
+#links {
+    font-size: 20px;
+}
