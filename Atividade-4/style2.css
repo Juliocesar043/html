@@ -1,0 +1,29 @@
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+td, th {
+    border: 2px solid black;
+}
+
+td {
+    padding: 15px;
+    font-size: 15px;
+    text-align: center;
+    
+
+}
+
+th {
+    background-color: gray;
+    color: ghostwhite;
+    font-size: 18px;
+    padding: 0px 20px;
+    letter-spacing: 1px;
+}
+
+td:nth-child(even) {
+        background-color: rgb(228, 228, 228);
+    }

@@ -1,0 +1,19 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th {
+    background-color: #fe9900;
+}
+
+td {
+    padding: 25px;
+    text-align: center
+
+}
+
+td, th {
+    border: 2px solid black;
+}
